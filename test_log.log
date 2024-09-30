@@ -1,0 +1,8 @@
+20:09:55 INFO Starting test execution...
+20:09:58 INFO Navigating to the homepage
+20:10:02 INFO Page title: Property Management Software | Entrata
+20:10:10 INFO Navigating to the Careers page
+20:10:17 INFO Page title: Come work at Entrata. Entrata Career and Job Postings
+20:10:17 INFO Page title: Come work at Entrata. Entrata Career and Job Postings
+20:10:25 INFO Verifying Resident Login button visibility
+20:10:34 INFO Resident Login button is visible
